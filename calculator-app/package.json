@@ -1,0 +1,16 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple calculator application implemented in both Python and JavaScript.",
+  "main": "javascript/calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
